@@ -12,6 +12,20 @@ header {
     color: #fff;
     padding: 1rem 0;
     text-align: center;
+    position: relative;
+}
+
+.profile-picture {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 0 auto 1rem; /* Center the profile picture and add space below */
+}
+
+.profile-picture img {
+    width: 100%;
+    height: auto;
 }
 
 header h1 {
@@ -58,3 +72,4 @@ a {
     color: #4CAF50;
     text-decoration: none;
 }
+ 
