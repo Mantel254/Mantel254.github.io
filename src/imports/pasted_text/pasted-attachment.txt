@@ -1,0 +1,503 @@
+# Creative Direction — Modern Clinical × AI Engineering Portfolio
+
+Design a premium portfolio using the same visual language as the provided reference. Do **not** copy the layout directly. Instead, reinterpret its design principles into a unique, award-quality AI engineering portfolio.
+
+## Overall Style
+
+The website should feel like a fusion of:
+
+* Apple
+* OpenAI
+* Linear
+* Vercel
+* Stripe
+* Notion
+
+with the calm, trustworthy visual identity of the provided Modern Clinical theme.
+
+The emotional response should be:
+
+> "This engineer builds secure, intelligent systems that can be trusted."
+
+The interface should communicate precision, intelligence, elegance, confidence, and technical excellence.
+
+---
+
+# Design Language
+
+Minimal.
+
+Sophisticated.
+
+Luxurious.
+
+Professional.
+
+Modern.
+
+Editorial.
+
+Technology-first.
+
+Research-inspired.
+
+Lots of breathing room.
+
+Perfect typography.
+
+Premium spacing.
+
+No visual clutter.
+
+Nothing should feel like a template.
+
+---
+
+# Color Palette
+
+Primary
+
+Deep Emerald
+
+#0F5A47
+
+Secondary
+
+Dark Forest
+
+#123F35
+
+Background
+
+Warm Off White
+
+#F8F8F4
+
+Surface
+
+White
+
+#FFFFFF
+
+Muted Surface
+
+#EEF2EE
+
+Accent
+
+Muted Terracotta
+
+#B86A4A
+
+Secondary Accent
+
+Warm Gold
+
+#C59A5A
+
+Borders
+
+rgba(15,90,71,0.08)
+
+Text Primary
+
+#15231E
+
+Text Secondary
+
+#55635D
+
+Muted
+
+#8A948F
+
+Success
+
+#2E8B57
+
+The palette should feel premium and natural rather than neon or cyberpunk.
+
+---
+
+# Background Style
+
+Inspired by the reference.
+
+Very subtle diagonal grid.
+
+Soft geometric textures.
+
+Extremely low opacity.
+
+Large empty spaces.
+
+Occasional blurred gradients.
+
+Very soft lighting.
+
+No heavy patterns.
+
+No noisy backgrounds.
+
+---
+
+# Typography
+
+Large editorial headlines.
+
+Elegant serif for major headings.
+
+Examples:
+
+Canela
+
+Cormorant Garamond
+
+Playfair Display
+
+Body text:
+
+Inter
+
+Geist
+
+Manrope
+
+IBM Plex Sans
+
+Navigation:
+
+Modern sans serif.
+
+Generous line spacing.
+
+Large whitespace.
+
+Perfect visual hierarchy.
+
+---
+
+# Hero Section
+
+Minimal.
+
+Large portrait using the uploaded photo.
+
+Editorial headline.
+
+Example:
+
+Building Intelligent Software
+That People Can Trust.
+
+Subheadline
+
+Machine Learning Engineer • AI Engineer • Software Developer
+
+Small descriptive paragraph introducing Emmanuel as an engineer focused on AI, scalable systems, and impactful software.
+
+CTA buttons:
+
+View Projects
+
+Download Resume
+
+Secondary badge:
+
+Powered by AI
+
+Floating technology badges:
+
+Python
+
+Django
+
+LLMs
+
+Computer Vision
+
+Generative AI
+
+Docker
+
+Machine Learning
+
+The badges should resemble elegant pharmaceutical labels from the inspiration but adapted into AI technologies.
+
+---
+
+# Navigation
+
+Transparent.
+
+Minimal.
+
+Sticky.
+
+Soft blur while scrolling.
+
+Menu
+
+Home
+
+Experience
+
+Projects
+
+Research
+
+Skills
+
+Resume
+
+Contact
+
+AI Assistant
+
+---
+
+# Cards
+
+Inspired by premium healthcare software.
+
+Rounded corners.
+
+Very soft shadows.
+
+Thin borders.
+
+Elevated appearance.
+
+Lots of padding.
+
+Subtle hover lift.
+
+Glassmorphism only where appropriate.
+
+---
+
+# Sections
+
+About
+
+Professional biography.
+
+Mission.
+
+Engineering philosophy.
+
+Career timeline.
+
+Featured Projects
+
+Large editorial cards.
+
+Each project contains
+
+Large screenshot
+
+Description
+
+Architecture
+
+Problem solved
+
+Technology stack
+
+Metrics
+
+AI explanation button
+
+Experience
+
+Elegant vertical timeline.
+
+Research
+
+Publication style.
+
+Certifications
+
+Modern gallery.
+
+Skills
+
+Beautiful technology cards instead of progress bars.
+
+---
+
+# AI Assistant
+
+Bottom-right floating assistant.
+
+Small emerald glowing button.
+
+When clicked:
+
+Beautiful conversational interface opens.
+
+Rounded.
+
+Soft glass.
+
+Modern.
+
+Looks even better than ChatGPT.
+
+Welcome message
+
+Hello.
+
+I'm Emmanuel's AI Assistant.
+
+I can answer questions about his projects, engineering experience, AI research, certifications, and technical skills.
+
+Suggested prompts
+
+Tell me about Emmanuel
+
+Explain this project
+
+Download resume
+
+Show AI experience
+
+Book an interview
+
+---
+
+# Voice Mode
+
+Switch between
+
+Text
+
+Voice
+
+Voice mode opens a premium conversation interface.
+
+Centered animated avatar generated from the uploaded image.
+
+The avatar should resemble Emmanuel while maintaining a polished, slightly stylized professional appearance.
+
+Animations
+
+Natural blinking
+
+Breathing
+
+Head movement
+
+Eye contact
+
+Lip synchronization
+
+Speaking animation
+
+Listening animation
+
+Animated microphone
+
+Audio waveform
+
+Subtitles
+
+Minimal controls.
+
+The interface should feel closer to OpenAI Voice Mode than a video call.
+
+---
+
+# Motion
+
+Very refined.
+
+Soft fade.
+
+Subtle parallax.
+
+Smooth scrolling.
+
+Hover elevation.
+
+Gentle blur transitions.
+
+No flashy effects.
+
+Every movement should reinforce calm confidence.
+
+---
+
+# Illustrations
+
+Use abstract AI-inspired geometric illustrations.
+
+Neural networks.
+
+Data flow.
+
+Intelligent system diagrams.
+
+Elegant architectural wireframes.
+
+Avoid cliché robot graphics.
+
+Avoid stock AI icons.
+
+---
+
+# Design System
+
+Use Auto Layout.
+
+Variables.
+
+Component variants.
+
+Responsive constraints.
+
+Spacing based on an 8px grid.
+
+Consistent border radii.
+
+Reusable typography styles.
+
+Reusable cards.
+
+Reusable badges.
+
+Reusable buttons.
+
+Reusable chat components.
+
+Reusable avatar components.
+
+---
+
+# Mobile
+
+Fully responsive.
+
+Touch-friendly.
+
+Navigation drawer.
+
+Responsive AI assistant.
+
+Voice mode optimized for mobile.
+
+---
+
+# Overall Impression
+
+The final design should feel like the website of an elite AI engineer working on products used by governments, Fortune 500 companies, healthcare organizations, or cutting-edge AI startups.
+
+It should evoke trust before excitement.
+
+It should look timeless rather than trendy.
+
+The user should feel:
+
+"This engineer builds intelligent systems that are reliable, secure, and beautifully engineered."
+
+The final result should be portfolio-quality enough to impress senior engineering managers, CTOs, AI researchers, and recruiters within the first ten seconds of visiting the site.

@@ -1,0 +1,10 @@
+{
+  "description": "Showcases an elite AI engineer's portfolio with projects, research, and an AI assistant to highlight expertise, skills, and professional achievements.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
