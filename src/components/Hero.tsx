@@ -111,11 +111,11 @@ export default function Hero() {
               marginBottom: '24px',
             }}
           >
-            Building Intelligent
+            Emmanuel Cherutich
             <br />
-            <em style={{ fontStyle: 'italic', color: '#0F5A47' }}>Software</em> That
+            <em style={{ fontStyle: 'italic', color: '#0F5A47' }}>AI Engineer</em> & ML
             <br />
-            Solves Real Problems.
+            Developer Building Better Tools.
           </h1>
 
           {/* Role tags */}
@@ -159,10 +159,10 @@ export default function Hero() {
               maxWidth: '520px',
             }}
           >
-            Computer Science student at the Technical University of Mombasa with hands-on
-            experience building AI-powered chatbots, WhatsApp automation, financial systems,
-            and low-resource language models. Passionate about using technology to solve
-            local problems and empower communities.
+            Emmanuel Cherutich is a computer science student and AI engineer based in Mombasa,
+            Kenya, building AI-powered chatbots, WhatsApp automation, financial systems, and
+            low-resource language models. He focuses on practical technology that solves local
+            problems and creates measurable impact for communities and businesses.
           </p>
 
           {/* CTA buttons */}

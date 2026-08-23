@@ -1,4 +1,4 @@
-import { useState, useCallback } from 'react'
+import { useState, useCallback, useEffect } from 'react'
 import Navigation from './components/Navigation'
 import Hero from './components/Hero'
 import About from './components/About'
@@ -15,6 +15,22 @@ import InlineAIPopover from './components/InlineAIPopover'
 export default function App() {
   const [assistantOpen, setAssistantOpen] = useState(false)
   const [voiceOpen, setVoiceOpen] = useState(false)
+
+  useEffect(() => {
+    const setMeta = (selector: string, content: string) => {
+      const element = document.head.querySelector(selector) as HTMLMetaElement | null
+      if (element) {
+        element.setAttribute('content', content)
+      }
+    }
+
+    document.title = 'Emmanuel Cherutich | AI Engineer & ML Developer'
+    setMeta('meta[name="description"]', 'Emmanuel Cherutich is an AI Engineer and ML Developer based in Mombasa, Kenya, building intelligent software, AI systems, and digital products that solve real-world problems.')
+    setMeta('meta[property="og:title"]', 'Emmanuel Cherutich | AI Engineer & ML Developer')
+    setMeta('meta[property="og:description"]', 'AI Engineer and ML Developer from Mombasa, Kenya building practical AI products, automation, and research-driven software solutions.')
+    setMeta('meta[name="twitter:title"]', 'Emmanuel Cherutich | AI Engineer & ML Developer')
+    setMeta('meta[name="twitter:description"]', 'AI Engineer and ML Developer building practical AI systems and software solutions in Kenya.')
+  }, [])
 
   // Selection AI state
   const [inlinePopover, setInlinePopover] = useState<{
