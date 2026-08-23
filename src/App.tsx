@@ -50,6 +50,7 @@ export default function App() {
     setPendingMessage({ question, context })
     setAssistantOpen(true)
   }, [])
+  // jjj
 
   return (
     // Relative so absolute-positioned toolbar can anchor to page coords
